@@ -1,0 +1,8 @@
+{
+  "name": "c3qaTesting",
+  "version": "1.0.0",
+  "description": "A repository for ids testing",
+  "dependencies": {
+    "base": "7.10.20"
+  }
+}
