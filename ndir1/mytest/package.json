@@ -1,0 +1,6 @@
+{
+  "name" : "mytest",
+  "description" : "my test",
+  "author" : "kevin.tu@c3iot.com",
+  "dependencies" : [ "standardDependencies" ]
+}
